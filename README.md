@@ -21,7 +21,7 @@ Check out the [Closed Issues](https://github.com/holman/ama/issues?q=is%3Aissue+
 filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
-
+/
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
